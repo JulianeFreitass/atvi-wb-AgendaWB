@@ -1,0 +1,17 @@
+2021-09-16 17:33:53,146 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-16 17:36:24,450 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wb:atvi-wb:0.0.1-SNAPSHOT @ /Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/atvi-wb/pom.xml.
+2021-09-16 17:36:25,349 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /atvi-wb/src/main/java
+2021-09-16 17:36:25,350 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /atvi-wb/src/test/java
+2021-09-16 17:36:25,505 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2021-09-16 17:36:31,708 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-16 17:36:31,710 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/atvi-wb/src/main/resources
+2021-09-16 17:36:31,713 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-16 17:36:31,715 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/atvi-wb/src/test/resources
+2021-09-16 17:36:57,945 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-16 17:36:57,946 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/atvi-wb/src/main/resources
+2021-09-16 17:36:57,948 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-16 17:36:57,949 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/atvi-wb/src/test/resources
+2021-11-02 00:28:59,638 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-02 00:32:41,637 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-10 18:14:55,250 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-10 18:16:52,503 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

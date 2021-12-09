@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/viniciusoliveira/Documents/developer/ads_fatec/semestre3-aug-2021/orientacao-a-objetos/atividades/atv01/atvi-wb/wb-agenda-clientes-cli/.metadata/.plugins/org.eclipse.jdt.core
+3787740244.index
+1005400069.index
